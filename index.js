@@ -4,6 +4,7 @@ const list = document.getElementById("list");
 const startBtn = document.getElementById("startBtn");
 const inputRepeat = document.getElementById("inputRepeat");
 const inputStart = document.getElementById("inputStart");
+const searchForm = document.getElementById("searchForm");
 
 const config = {
   list: [],
@@ -28,15 +29,20 @@ const setFormat = {
 };
 setList(setFormat);
 
-startBtn.addEventListener("click", function() {
+searchForm.addEventListener("change", function (e) {
+  const target = e.target;
+  if (target.id === "inputStart" || target.id === "inputRepeat") {
+    startBtn.click();
+  }
+});
+
+startBtn.addEventListener("click", function () {
   console.log("startBtn");
   const startVal = Number(inputStart.value);
   const endValue = startVal + Number(inputRepeat.value);
   const getItem = config.list.filter((item) => {
     return item.id >= startVal && item.id <= endValue;
   });
-  console.log(startVal, endValue);
-  console.log(getItem);
 
   const setFormat = {
     list: getItem,
@@ -47,7 +53,7 @@ startBtn.addEventListener("click", function() {
   // console.log(inputStart.value);
 });
 
-hideSentence.addEventListener("click", function(e) {
+hideSentence.addEventListener("click", function (e) {
   const toggleFormat = {
     toggleClass: "opacityZero",
     attrName: ["data-status", "true"],
@@ -57,7 +63,7 @@ hideSentence.addEventListener("click", function(e) {
   toggleClassControl(toggleFormat);
 });
 
-hideTranslate.addEventListener("click", function(e) {
+hideTranslate.addEventListener("click", function (e) {
   const toggleFormat = {
     toggleClass: "opacityZero",
     attrName: ["data-status", "true"],
@@ -66,3 +72,19 @@ hideTranslate.addEventListener("click", function(e) {
   };
   toggleClassControl(toggleFormat);
 });
+
+list.addEventListener("click", function (e) {
+  console.log(e.target);
+  const target = e.target;
+  const containClassName = ["sentence", "translate"];
+
+  if (containClassName.indexOf(target.className) !== -1) {
+    $(target).toggleClass("opacityZero");
+  }
+});
+// $(".sentence").on("click", function () {
+//   $(this).toggleClass("opacityZero");
+// });
+// $(".translate").on("click", function () {
+//   $(this).toggleClass("opacityZero");
+// });

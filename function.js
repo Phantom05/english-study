@@ -39,7 +39,7 @@ function convertString(str) {
 
 function createWordItem(item) {
   return `
-  <tr>
+  <tr data-name="word_${item.id}">
     <th scope="row">${item.id}</th>
     <td class="sentence">${item.en}</td>
     <td class="translate">${item.ko}</td>
