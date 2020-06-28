@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="./index.css">
+</head>
+
+<body>
+  <div class="container">
+    <h2 class="jumbotron">English Conversation Program</h2>
+    <div class="form-inline">
+
+    </div>
+    <h3>오늘의 세팅 <small>이전 학습 마지막 번호 3</small></h3>
+    <div class="form-inline">
+      <input type="text" class="form-control" id="inputStart" placeholder="시작 번호">
+      <input type="text" class="form-control" id="inputRepeat" placeholder="복습 개수">
+
+      <button class="btn btn-default" id="startBtn">OK</button>
+      <button class="btn btn-default" id="examBtn">시험보기</button>
+    </div>
+
+
+    <table class="table table-hover">
+      <thead class="thead">
+        <tr>
+          <th class="ttitle">No.</th>
+          <th class="ttitle toggleTh" id="hideSentence">문장 (가리기)</th>
+          <th class="ttitle toggleTh" id="hideTranslate">해석 (가리기)</th>
+          <th class="ttitle">반복 횟수</th>
+          <th class="ttitle">처리 상태</th>
+        </tr>
+      </thead>
+      <tbody id="list">
+        <!-- <tr>
+          <th scope="row">1</th>
+          <td class="sentence">A picece of cake.</td>
+          <td class="translate">식은 죽 먹기죠</td>
+          <td>
+            <input type="checkbox">
+            <input type="checkbox">
+            <input type="checkbox">
+            <input type="checkbox">
+          </td>
+          <td>
+            <input type="checkbox">
+          </td>
+        </tr> -->
+      </tbody>
+    </table>
+
+  </div>
+
+  <script src="./data.js"></script>
+  <script src="./function.js"></script>
+  <script src="./index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,2501 @@
+[{
+  "id": 1,
+  "word": "A piece of cake. 식은 죽 먹기죠.",
+  "en": "A piece of cake.",
+  "ko": "식은 죽 먹기죠."
+}, {
+  "id": 2,
+  "word": "Absolutely. (강한 어조로) 당연하지! 물론이지!",
+  "en": "Absolutely.",
+  "ko": "(강한 어조로) 당연하지! 물론이지!"
+}, {
+  "id": 3,
+  "word": "After you. 먼저 가세요.",
+  "en": "After you.",
+  "ko": "먼저 가세요."
+}, {
+  "id": 4,
+  "word": "Always. 항상 그렇죠.",
+  "en": "Always.",
+  "ko": "항상 그렇죠."
+}, {
+  "id": 5,
+  "word": "Amazing. 대단하네요.",
+  "en": "Amazing.",
+  "ko": "대단하네요."
+}, {
+  "id": 6,
+  "word": "And then? 그리고 나서는요?",
+  "en": "And then?",
+  "ko": "그리고 나서는요?"
+}, {
+  "id": 7,
+  "word": "Any good ideas? 어떤 좋은 생각이라도?",
+  "en": "Any good ideas?",
+  "ko": "어떤 좋은 생각이라도?"
+}, {
+  "id": 8,
+  "word": "Any time. 언제라도 좋아요.",
+  "en": "Any time.",
+  "ko": "언제라도 좋아요."
+}, {
+  "id": 9,
+  "word": "Anybody home? 집에 누구 있어요?",
+  "en": "Anybody home?",
+  "ko": "집에 누구 있어요?"
+}, {
+  "id": 10,
+  "word": "Anything else? 다른 건 없나요?",
+  "en": "Anything else?",
+  "ko": "다른 건 없나요?"
+}, {
+  "id": 11,
+  "word": "Are you in line? 지금 줄에 서 계신 거죠?",
+  "en": "Are you in line?",
+  "ko": "지금 줄에 서 계신 거죠?"
+}, {
+  "id": 12,
+  "word": "Are you kidding? 놀리는 거 아니죠?",
+  "en": "Are you kidding?",
+  "ko": "놀리는 거 아니죠?"
+}, {
+  "id": 13,
+  "word": "Are you serious? 그거 진심이에요? = Serious?",
+  "en": "Are you serious?",
+  "ko": "그거 진심이에요? = Serious?"
+}, {
+  "id": 14,
+  "word": "At last. 드디어.",
+  "en": "At last.",
+  "ko": "드디어."
+}, {
+  "id": 15,
+  "word": "Attention, please! 주목 해 주세요.",
+  "en": "Attention, please!",
+  "ko": "주목 해 주세요."
+}, {
+  "id": 16,
+  "word": "Awesome! 우와! 멋지다!",
+  "en": "Awesome!",
+  "ko": "우와! 멋지다!"
+}, {
+  "id": 17,
+  "word": "Back me up. (지원해 달라는 뜻으로) 내 뒤를 좀 봐줘.",
+  "en": "Back me up.",
+  "ko": "(지원해 달라는 뜻으로) 내 뒤를 좀 봐줘."
+}, {
+  "id": 18,
+  "word": "Be my guest. 사양하지 마세요.; 어서 한번 해보세요.",
+  "en": "Be my guest.",
+  "ko": "사양하지 마세요.; 어서 한번 해보세요."
+}, {
+  "id": 19,
+  "word": "Be patient. 조금만 참아 보세요.",
+  "en": "Be patient.",
+  "ko": "조금만 참아 보세요."
+}, {
+  "id": 20,
+  "word": "Be punctual. 시간 좀 맞춰.",
+  "en": "Be punctual.",
+  "ko": "시간 좀 맞춰."
+}, {
+  "id": 21,
+  "word": "Be right back with you. 잠깐만요.; 곧 돌아올게.",
+  "en": "Be right back with you.",
+  "ko": "잠깐만요.; 곧 돌아올게."
+}, {
+  "id": 22,
+  "word": "Be seated. 앉으시죠.",
+  "en": "Be seated.",
+  "ko": "앉으시죠."
+}, {
+  "id": 23,
+  "word": "Beat it. (이 자리에서) 꺼져.",
+  "en": "Beat it.",
+  "ko": "(이 자리에서) 꺼져."
+}, {
+  "id": 24,
+  "word": "Beer, please. 맥주 주세요.",
+  "en": "Beer, please.",
+  "ko": "맥주 주세요."
+}, {
+  "id": 25,
+  "word": "Behave yourself. 예의를 갖추시죠!",
+  "en": "Behave yourself.",
+  "ko": "예의를 갖추시죠!"
+}, {
+  "id": 26,
+  "word": "Better late than never. 안 하는 것보다는 늦게라도 하는 게 낫죠.",
+  "en": "Better late than never.",
+  "ko": "안 하는 것보다는 늦게라도 하는 게 낫죠."
+}, {
+  "id": 27,
+  "word": "Better than nothing. 이거라도 있는 게 없는 것보다는 낫죠.",
+  "en": "Better than nothing.",
+  "ko": "이거라도 있는 게 없는 것보다는 낫죠."
+}, {
+  "id": 28,
+  "word": "Boy! It hurts. 와, 진짜 아프네.",
+  "en": "Boy! It hurts.",
+  "ko": "와, 진짜 아프네."
+}, {
+  "id": 29,
+  "word": "Break it up. 그만 좀 싸워.",
+  "en": "Break it up.",
+  "ko": "그만 좀 싸워."
+}, {
+  "id": 30,
+  "word": "Call me Sam, please. 샘이라고 불러 주세요.",
+  "en": "Call me Sam, please.",
+  "ko": "샘이라고 불러 주세요."
+}, {
+  "id": 31,
+  "word": "Can I get a ride? 나를 태워다 줄 수 있어요?",
+  "en": "Can I get a ride?",
+  "ko": "나를 태워다 줄 수 있어요?"
+}, {
+  "id": 32,
+  "word": "Can you hear me now? 잘 들려요?",
+  "en": "Can you hear me now?",
+  "ko": "잘 들려요?"
+}, {
+  "id": 33,
+  "word": "Can't argue with that. 그건 논란의 여지가 없죠.",
+  "en": "Can't argue with that.",
+  "ko": "그건 논란의 여지가 없죠."
+}, {
+  "id": 34,
+  "word": "Can't be better than this. 이보다 더 좋을 리 없어요.",
+  "en": "Can't be better than this.",
+  "ko": "이보다 더 좋을 리 없어요."
+}, {
+  "id": 35,
+  "word": "Cash or charge? 현금으로 하시나요, 신용카드로 하시나요?",
+  "en": "Cash or charge?",
+  "ko": "현금으로 하시나요, 신용카드로 하시나요?"
+}, {
+  "id": 36,
+  "word": "Catch you later. 나중에 봐요.; 나중에 들를게요.",
+  "en": "Catch you later.",
+  "ko": "나중에 봐요.; 나중에 들를게요."
+}, {
+  "id": 37,
+  "word": "Certainly. 확실히 그렇죠.",
+  "en": "Certainly.",
+  "ko": "확실히 그렇죠."
+}, {
+  "id": 38,
+  "word": "Charge it please. 신용카드로 결제할게요.",
+  "en": "Charge it please.",
+  "ko": "신용카드로 결제할게요."
+}, {
+  "id": 39,
+  "word": "Check it out. 확인해 보세요.",
+  "en": "Check it out.",
+  "ko": "확인해 보세요."
+}, {
+  "id": 40,
+  "word": "Check, please. 계산서 좀 주세요.",
+  "en": "Check, please.",
+  "ko": "계산서 좀 주세요."
+}, {
+  "id": 41,
+  "word": "Cheer up! 기운 내요.; 화이팅!",
+  "en": "Cheer up!",
+  "ko": "기운 내요.; 화이팅!"
+}, {
+  "id": 42,
+  "word": "Cheers! 건배!",
+  "en": "Cheers!",
+  "ko": "건배!"
+}, {
+  "id": 43,
+  "word": "Coffee, please. 커피 주세요.",
+  "en": "Coffee, please.",
+  "ko": "커피 주세요."
+}, {
+  "id": 44,
+  "word": "Come and get it. 와서 가져가요.; 와서 먹어요.",
+  "en": "Come and get it.",
+  "ko": "와서 가져가요.; 와서 먹어요."
+}, {
+  "id": 45,
+  "word": "Come on in. 들어 오세요.",
+  "en": "Come on in.",
+  "ko": "들어 오세요."
+}, {
+  "id": 46,
+  "word": "Come on. 설마.; 자, 해보자.; 더 빨리!",
+  "en": "Come on.",
+  "ko": "설마.; 자, 해보자.; 더 빨리!"
+}, {
+  "id": 47,
+  "word": "Congratulations! 축하합니다. = Congrats!",
+  "en": "Congratulations!",
+  "ko": "축하합니다. = Congrats!"
+}, {
+  "id": 48,
+  "word": "Could be. 그럴 수도 있죠.",
+  "en": "Could be.",
+  "ko": "그럴 수도 있죠."
+}, {
+  "id": 49,
+  "word": "Couldn't be better than this. 이보다 더 좋을 순 없어.",
+  "en": "Couldn't be better than this.",
+  "ko": "이보다 더 좋을 순 없어."
+}, {
+  "id": 50,
+  "word": "Definitely. 그럼요.; 물론이죠.",
+  "en": "Definitely.",
+  "ko": "그럼요.; 물론이죠."
+}, {
+  "id": 51,
+  "word": "Delicious! 맛있어요.",
+  "en": "Delicious!",
+  "ko": "맛있어요."
+}, {
+  "id": 52,
+  "word": "Did you get it? 알아 들었어요?",
+  "en": "Did you get it?",
+  "ko": "알아 들었어요?"
+}, {
+  "id": 53,
+  "word": "Didn't I make myself clear? 제 입장을 확실하게 말하지 않았나요?",
+  "en": "Didn't I make myself clear?",
+  "ko": "제 입장을 확실하게 말하지 않았나요?"
+}, {
+  "id": 54,
+  "word": "Disgusting! 기분 나빠! 재수 없어!",
+  "en": "Disgusting!",
+  "ko": "기분 나빠! 재수 없어!"
+}, {
+  "id": 55,
+  "word": "Do I know it? 내가 어떻게 알아. 나도 이미 알아. (상반된 두가지 뜻)",
+  "en": "Do I know it?",
+  "ko": "내가 어떻게 알아. 나도 이미 알아. (상반된 두가지 뜻)"
+}, {
+  "id": 56,
+  "word": "Do I look all right? 제가 괜찮아 보여요?",
+  "en": "Do I look all right?",
+  "ko": "제가 괜찮아 보여요?"
+}, {
+  "id": 57,
+  "word": "Do you follow me? 제 말 알아 듣겠어요?",
+  "en": "Do you follow me?",
+  "ko": "제 말 알아 듣겠어요?"
+}, {
+  "id": 58,
+  "word": "Do you have everything with you? 다 가지고 계신 거죠?",
+  "en": "Do you have everything with you?",
+  "ko": "다 가지고 계신 거죠?"
+}, {
+  "id": 59,
+  "word": "Do you? 너는?",
+  "en": "Do you?",
+  "ko": "너는?"
+}, {
+  "id": 60,
+  "word": "Doing okay? 잘 하고 있어요?",
+  "en": "Doing okay?",
+  "ko": "잘 하고 있어요?"
+}, {
+  "id": 61,
+  "word": "Don’t get too serious. 너무 심각하게 그러지 말아요.; 편하게 생각하세요.",
+  "en": "Don’t get too serious.",
+  "ko": "너무 심각하게 그러지 말아요.; 편하게 생각하세요."
+}, {
+  "id": 62,
+  "word": "Don’t miss the boat. 기회를 놓치지 마세요.",
+  "en": "Don’t miss the boat.",
+  "ko": "기회를 놓치지 마세요."
+}, {
+  "id": 63,
+  "word": "Don’t press [push] your luck. 너무 날뛰지 마라.; 너무 행운만 믿지는 마라.",
+  "en": "Don’t press [push] your luck.",
+  "ko": "너무 날뛰지 마라.; 너무 행운만 믿지는 마라."
+}, {
+  "id": 64,
+  "word": "Don't ask. 묻지 말아 주세요.",
+  "en": "Don't ask.",
+  "ko": "묻지 말아 주세요."
+}, {
+  "id": 65,
+  "word": "Don't be a chicken. 너무 겁먹을 것 없어요.",
+  "en": "Don't be a chicken.",
+  "ko": "너무 겁먹을 것 없어요."
+}, {
+  "id": 66,
+  "word": "Don't be afraid. 두려워 하지 마세요.",
+  "en": "Don't be afraid.",
+  "ko": "두려워 하지 마세요."
+}, {
+  "id": 67,
+  "word": "Don't be foolish. 멍청하게 굴지 말아요.",
+  "en": "Don't be foolish.",
+  "ko": "멍청하게 굴지 말아요."
+}, {
+  "id": 68,
+  "word": "Don't be modest. 겸손해 하지 말아요.",
+  "en": "Don't be modest.",
+  "ko": "겸손해 하지 말아요."
+}, {
+  "id": 69,
+  "word": "Don't be shy. 부끄러워 하지 마세요.",
+  "en": "Don't be shy.",
+  "ko": "부끄러워 하지 마세요."
+}, {
+  "id": 70,
+  "word": "Don't be silly. 바보같이 굴지 말아요.",
+  "en": "Don't be silly.",
+  "ko": "바보같이 굴지 말아요."
+}, {
+  "id": 71,
+  "word": "Don't bother. 신경 쓰지 마세요.",
+  "en": "Don't bother.",
+  "ko": "신경 쓰지 마세요."
+}, {
+  "id": 72,
+  "word": "Don't bother me. 날 괴롭히지마 [방해하지마].",
+  "en": "Don't bother me.",
+  "ko": "날 괴롭히지마 [방해하지마]."
+}, {
+  "id": 73,
+  "word": "Don't change the subject. 화제를 다른 데로 돌리지 마세요.",
+  "en": "Don't change the subject.",
+  "ko": "화제를 다른 데로 돌리지 마세요."
+}, {
+  "id": 74,
+  "word": "Don't get into trouble. 괜히 끼어들지 마세요. = Stay out of trouble.",
+  "en": "Don't get into trouble.",
+  "ko": "괜히 끼어들지 마세요. = Stay out of trouble."
+}, {
+  "id": 75,
+  "word": "Don't get me wrong. 나를 오해하지 마세요.",
+  "en": "Don't get me wrong.",
+  "ko": "나를 오해하지 마세요."
+}, {
+  "id": 76,
+  "word": "Don't get upset. 너무 화내지 말아요.",
+  "en": "Don't get upset.",
+  "ko": "너무 화내지 말아요."
+}, {
+  "id": 77,
+  "word": "Don't mess with me. 나하고 해보자는 거죠.; 저를 함부로 대하지 마세요.",
+  "en": "Don't mess with me.",
+  "ko": "나하고 해보자는 거죠.; 저를 함부로 대하지 마세요."
+}, {
+  "id": 78,
+  "word": "Don't let me down. 나를 실망시키지 마세요.",
+  "en": "Don't let me down.",
+  "ko": "나를 실망시키지 마세요."
+}, {
+  "id": 79,
+  "word": "Don't make me laugh. 나 좀 웃기지 마세요.",
+  "en": "Don't make me laugh.",
+  "ko": "나 좀 웃기지 마세요."
+}, {
+  "id": 80,
+  "word": "Don't push me! 너무 강요하지 마세요.",
+  "en": "Don't push me!",
+  "ko": "너무 강요하지 마세요."
+}, {
+  "id": 81,
+  "word": "Don't push! 밀지 마세요.",
+  "en": "Don't push!",
+  "ko": "밀지 마세요."
+}, {
+  "id": 82,
+  "word": "Don't worry about it. 걱정하지 마세요.",
+  "en": "Don't worry about it.",
+  "ko": "걱정하지 마세요."
+}, {
+  "id": 83,
+  "word": "Drive safely! 안전하게 운전하세요!",
+  "en": "Drive safely!",
+  "ko": "안전하게 운전하세요!"
+}, {
+  "id": 84,
+  "word": "Easy does it. 천천히 해요.; 조심스럽게 하세요.; 성질내지 말고 진정해요.",
+  "en": "Easy does it.",
+  "ko": "천천히 해요.; 조심스럽게 하세요.; 성질내지 말고 진정해요."
+}, {
+  "id": 85,
+  "word": "Either will do. 둘 중에 어떤 것이든 돼요. = Anything will do.",
+  "en": "Either will do.",
+  "ko": "둘 중에 어떤 것이든 돼요. = Anything will do."
+}, {
+  "id": 86,
+  "word": "Enjoy your meal. 맛있게 드세요.",
+  "en": "Enjoy your meal.",
+  "ko": "맛있게 드세요."
+}, {
+  "id": 87,
+  "word": "Enough is enough. 충분하니까 이제 그만.",
+  "en": "Enough is enough.",
+  "ko": "충분하니까 이제 그만."
+}, {
+  "id": 88,
+  "word": "Exactly. 바로 그거죠.",
+  "en": "Exactly.",
+  "ko": "바로 그거죠."
+}, {
+  "id": 89,
+  "word": "Excellent! 멋진데! = Super!",
+  "en": "Excellent!",
+  "ko": "멋진데! = Super!"
+}, {
+  "id": 90,
+  "word": "Excuse me. 실례합니다.",
+  "en": "Excuse me.",
+  "ko": "실례합니다."
+}, {
+  "id": 91,
+  "word": "Far from it. 아직 멀었어요.",
+  "en": "Far from it.",
+  "ko": "아직 멀었어요."
+}, {
+  "id": 92,
+  "word": "Fifty-fifty. 50 대 50 이죠.",
+  "en": "Fifty-fifty. 50",
+  "ko": "대 50 이죠."
+}, {
+  "id": 93,
+  "word": "Follow me. 따라 오세요.",
+  "en": "Follow me.",
+  "ko": "따라 오세요."
+}, {
+  "id": 94,
+  "word": "For here or to go? 여기서 잡수실 건가요, 가지고 가실 건가요?",
+  "en": "For here or to go?",
+  "ko": "여기서 잡수실 건가요, 가지고 가실 건가요?"
+}, {
+  "id": 95,
+  "word": "For good? 영원히?",
+  "en": "For good?",
+  "ko": "영원히?"
+}, {
+  "id": 96,
+  "word": "For what? 왜? 뭣 때문에?",
+  "en": "For what?",
+  "ko": "왜? 뭣 때문에?"
+}, {
+  "id": 97,
+  "word": "Forget it. 그건 잊어 버리세요.; 신경 끄시죠.",
+  "en": "Forget it.",
+  "ko": "그건 잊어 버리세요.; 신경 끄시죠."
+}, {
+  "id": 98,
+  "word": "Get in the line. 줄을 서세요.",
+  "en": "Get in the line.",
+  "ko": "줄을 서세요."
+}, {
+  "id": 99,
+  "word": "Get lost! 당장 꺼져 버려",
+  "en": "Get lost!",
+  "ko": "당장 꺼져 버려"
+}, {
+  "id": 100,
+  "word": "Get off my back. 꺼져.",
+  "en": "Get off my back.",
+  "ko": "꺼져."
+}, {
+  "id": 101,
+  "word": "Get real! 현실적이 되세요. 냉정해지세요.",
+  "en": "Get real!",
+  "ko": "현실적이 되세요. 냉정해지세요."
+}, {
+  "id": 102,
+  "word": "Get the picture? 완전히 이해가 되세요?",
+  "en": "Get the picture?",
+  "ko": "완전히 이해가 되세요?"
+}, {
+  "id": 103,
+  "word": "Give it a rest. 내버려 두세요.",
+  "en": "Give it a rest.",
+  "ko": "내버려 두세요."
+}, {
+  "id": 104,
+  "word": "Give it a try. 노력해 보세요.; 혹은 한번 시도해 보세요.",
+  "en": "Give it a try.",
+  "ko": "노력해 보세요.; 혹은 한번 시도해 보세요."
+}, {
+  "id": 105,
+  "word": "Give me a call. 제게 전화 주세요.",
+  "en": "Give me a call.",
+  "ko": "제게 전화 주세요."
+}, {
+  "id": 106,
+  "word": "Gladly. 기꺼이 하죠.",
+  "en": "Gladly.",
+  "ko": "기꺼이 하죠."
+}, {
+  "id": 107,
+  "word": "Go ahead. 계속 하세요.; (이야기하던 것을) 계속 말씀하세요.; 먼저 가세요.",
+  "en": "Go ahead.",
+  "ko": "계속 하세요.; (이야기하던 것을) 계속 말씀하세요.; 먼저 가세요."
+}, {
+  "id": 108,
+  "word": "Go fifty-fifty. 반반 나누어 내죠.",
+  "en": "Go fifty-fifty.",
+  "ko": "반반 나누어 내죠."
+}, {
+  "id": 109,
+  "word": "Go for it. 한번 해 보세요.; 노력 해보세요.; 화이팅!",
+  "en": "Go for it.",
+  "ko": "한번 해 보세요.; 노력 해보세요.; 화이팅!"
+}, {
+  "id": 110,
+  "word": "Go get it. 가서 가져 오세요.; (격려하는 의미로) 한번 해보세요.",
+  "en": "Go get it.",
+  "ko": "가서 가져 오세요.; (격려하는 의미로) 한번 해보세요."
+}, {
+  "id": 111,
+  "word": "Go on, please. 어서 계속 하세요.",
+  "en": "Go on, please.",
+  "ko": "어서 계속 하세요."
+}, {
+  "id": 112,
+  "word": "Going down? (주로 엘리베이터에서) 내려 가세요?",
+  "en": "Going down?",
+  "ko": "(주로 엘리베이터에서) 내려 가세요?"
+}, {
+  "id": 113,
+  "word": "Going up? (주로 엘리베이터에서) 올라 가세요?",
+  "en": "Going up?",
+  "ko": "(주로 엘리베이터에서) 올라 가세요?"
+}, {
+  "id": 114,
+  "word": "Good enough. 그 정도면 충분 합니다. 좋습니다.",
+  "en": "Good enough.",
+  "ko": "그 정도면 충분 합니다. 좋습니다."
+}, {
+  "id": 115,
+  "word": "Good for you. (약한 축하의 의미로) 잘 되었네요.",
+  "en": "Good for you.",
+  "ko": "(약한 축하의 의미로) 잘 되었네요."
+}, {
+  "id": 116,
+  "word": "Good luck to you! 행운을 빌어요.",
+  "en": "Good luck to you!",
+  "ko": "행운을 빌어요."
+}, {
+  "id": 117,
+  "word": "Good luck. 행운을 빕니다.",
+  "en": "Good luck.",
+  "ko": "행운을 빕니다."
+}, {
+  "id": 118,
+  "word": "Good talking to you. 대화 즐거웠어.",
+  "en": "Good talking to you.",
+  "ko": "대화 즐거웠어."
+}, {
+  "id": 119,
+  "word": "Grow up! 철 좀 들어!",
+  "en": "Grow up!",
+  "ko": "철 좀 들어!"
+}, {
+  "id": 120,
+  "word": "Guess what? 뭔지 알아 맞추어 봐요!",
+  "en": "Guess what?",
+  "ko": "뭔지 알아 맞추어 봐요!"
+}, {
+  "id": 121,
+  "word": "Hang in there. 잘 버티길.",
+  "en": "Hang in there.",
+  "ko": "잘 버티길."
+}, {
+  "id": 122,
+  "word": "Hang loose. 좀 편히 쉬고 있어요.",
+  "en": "Hang loose.",
+  "ko": "좀 편히 쉬고 있어요."
+}, {
+  "id": 123,
+  "word": "Hang on! 잠깐만!",
+  "en": "Hang on!",
+  "ko": "잠깐만!"
+}, {
+  "id": 124,
+  "word": "Have a nice day. 좋은 하루 되세요.",
+  "en": "Have a nice day.",
+  "ko": "좋은 하루 되세요."
+}, {
+  "id": 125,
+  "word": "Have fun! 재미있게 즐겨요!",
+  "en": "Have fun!",
+  "ko": "재미있게 즐겨요!"
+}, {
+  "id": 126,
+  "word": "He didn't show up. 그 사람은 나타나지 않았어요.",
+  "en": "He didn't show up.",
+  "ko": "그 사람은 나타나지 않았어요."
+}, {
+  "id": 127,
+  "word": "He is history to me. 그 사람은 저에게 이미 지난 일이에요.",
+  "en": "He is history to me.",
+  "ko": "그 사람은 저에게 이미 지난 일이에요."
+}, {
+  "id": 128,
+  "word": "Help me! 도와 주세요!",
+  "en": "Help me!",
+  "ko": "도와 주세요!"
+}, {
+  "id": 129,
+  "word": "Help yourself. 마음껏 드세요.",
+  "en": "Help yourself.",
+  "ko": "마음껏 드세요."
+}, {
+  "id": 130,
+  "word": "Here is something foryou. 너를 위해 준비한 게 있어.",
+  "en": "Here is something foryou.",
+  "ko": "너를 위해 준비한 게 있어."
+}, {
+  "id": 131,
+  "word": "Here you are. 여기 있어요.",
+  "en": "Here you are.",
+  "ko": "여기 있어요."
+}, {
+  "id": 132,
+  "word": "Hi! 안녕.",
+  "en": "Hi!",
+  "ko": "안녕."
+}, {
+  "id": 133,
+  "word": "Hold it! 움직이지 마요. 잠깐만!",
+  "en": "Hold it!",
+  "ko": "움직이지 마요. 잠깐만!"
+}, {
+  "id": 134,
+  "word": "Hold on. 잠깐!",
+  "en": "Hold on.",
+  "ko": "잠깐!"
+}, {
+  "id": 135,
+  "word": "How about you? 너은 어때?",
+  "en": "How about you?",
+  "ko": "너은 어때?"
+}, {
+  "id": 136,
+  "word": "How big is it? 얼마나 큰데요?",
+  "en": "How big is it?",
+  "ko": "얼마나 큰데요?"
+}, {
+  "id": 137,
+  "word": "How come? Why? 어떻게? 왜?",
+  "en": "How come? Why?",
+  "ko": "어떻게? 왜?"
+}, {
+  "id": 138,
+  "word": "How do you like here? 여기 좋아하세요?",
+  "en": "How do you like here?",
+  "ko": "여기 좋아하세요?"
+}, {
+  "id": 139,
+  "word": "How have you been? 그동안 어떻게 지냈어요?",
+  "en": "How have you been?",
+  "ko": "그동안 어떻게 지냈어요?"
+}, {
+  "id": 140,
+  "word": "How many times do I haveto say? 몇 번이나 말해야 알겠어요?",
+  "en": "How many times do I haveto say?",
+  "ko": "몇 번이나 말해야 알겠어요?"
+}, {
+  "id": 141,
+  "word": "How many? 몇 개나?",
+  "en": "How many?",
+  "ko": "몇 개나?"
+}, {
+  "id": 142,
+  "word": "How much? 얼마나 많이?",
+  "en": "How much?",
+  "ko": "얼마나 많이?"
+}, {
+  "id": 143,
+  "word": "How was your trip(vacation)? 여행 (휴가)는 어땠어요?",
+  "en": "How was your trip",
+  "ko": "(vacation)? 여행 (휴가)는 어땠어요?"
+}, {
+  "id": 144,
+  "word": "How? 어떻게?",
+  "en": "How?",
+  "ko": "어떻게?"
+}, {
+  "id": 145,
+  "word": "How's everything? 다 잘 되고 있죠?",
+  "en": "How's everything?",
+  "ko": "다 잘 되고 있죠?"
+}, {
+  "id": 146,
+  "word": "How's work? 일은 좀 어때요?",
+  "en": "How's work?",
+  "ko": "일은 좀 어때요?"
+}, {
+  "id": 147,
+  "word": "How's your family? 가족은 잘 있어요?",
+  "en": "How's your family?",
+  "ko": "가족은 잘 있어요?"
+}, {
+  "id": 148,
+  "word": "I agree. 동의합니다.",
+  "en": "I agree.",
+  "ko": "동의합니다."
+}, {
+  "id": 149,
+  "word": "I am (deeply) touched. 정말 감동했어요.",
+  "en": "I am",
+  "ko": "(deeply) touched. 정말 감동했어요."
+}, {
+  "id": 150,
+  "word": "I am a littledisappointed. 좀 실망했어요.",
+  "en": "I am a littledisappointed.",
+  "ko": "좀 실망했어요."
+}, {
+  "id": 151,
+  "word": "I am all set. 준비 끝!",
+  "en": "I am all set.",
+  "ko": "준비 끝!"
+}, {
+  "id": 152,
+  "word": "I am aware of that. 그 점에 대해서는 잘 알고 있습니다.",
+  "en": "I am aware of that.",
+  "ko": "그 점에 대해서는 잘 알고 있습니다."
+}, {
+  "id": 153,
+  "word": "I am back. 저 돌아 왔어요.",
+  "en": "I am back.",
+  "ko": "저 돌아 왔어요."
+}, {
+  "id": 154,
+  "word": "I am broke. 저 무일푼 입니다.; 완전 파산 상태예요.",
+  "en": "I am broke.",
+  "ko": "저 무일푼 입니다.; 완전 파산 상태예요."
+}, {
+  "id": 155,
+  "word": "I am coming. 지금 가요.",
+  "en": "I am coming.",
+  "ko": "지금 가요."
+}, {
+  "id": 156,
+  "word": "I am crazy about her. 나는 그 여자 분에게 흠뻑 빠졌어요.",
+  "en": "I am crazy about her.",
+  "ko": "나는 그 여자 분에게 흠뻑 빠졌어요."
+}, {
+  "id": 157,
+  "word": "I am exhausted. 완전히 지쳤어요.",
+  "en": "I am exhausted.",
+  "ko": "완전히 지쳤어요."
+}, {
+  "id": 158,
+  "word": "I am fed up with this. 이것에 관해서는 정말 진저리가 나요.",
+  "en": "I am fed up with this.",
+  "ko": "이것에 관해서는 정말 진저리가 나요."
+}, {
+  "id": 159,
+  "word": "I am free. 한가해요.",
+  "en": "I am free.",
+  "ko": "한가해요."
+}, {
+  "id": 160,
+  "word": "I am full. 배불러요.",
+  "en": "I am full.",
+  "ko": "배불러요."
+}, {
+  "id": 161,
+  "word": "I am getting hungry. 슬슬 배가 고파 오는데요.",
+  "en": "I am getting hungry.",
+  "ko": "슬슬 배가 고파 오는데요."
+}, {
+  "id": 162,
+  "word": "I am going to miss you. 널 그리워 하게 될 거야.",
+  "en": "I am going to miss you.",
+  "ko": "널 그리워 하게 될 거야."
+}, {
+  "id": 163,
+  "word": "I am impressed. 감동 받았어요.",
+  "en": "I am impressed.",
+  "ko": "감동 받았어요."
+}, {
+  "id": 164,
+  "word": "I am in a hurry. 좀 바쁩니다. 저 급해요.",
+  "en": "I am in a hurry.",
+  "ko": "좀 바쁩니다. 저 급해요."
+}, {
+  "id": 165,
+  "word": "I am in need. 곤궁에 처했습니다.",
+  "en": "I am in need.",
+  "ko": "곤궁에 처했습니다."
+}, {
+  "id": 166,
+  "word": "I am nearsighted. 근시입니다.",
+  "en": "I am nearsighted.",
+  "ko": "근시입니다."
+}, {
+  "id": 167,
+  "word": "I am on duty. 근무 중 입니다.",
+  "en": "I am on duty.",
+  "ko": "근무 중 입니다."
+}, {
+  "id": 168,
+  "word": "I am scared to death. 무서워 죽겠어요.",
+  "en": "I am scared to death.",
+  "ko": "무서워 죽겠어요."
+}, {
+  "id": 169,
+  "word": "I am serious. 진지하게 하는 말이야.; 농담 아니야.",
+  "en": "I am serious.",
+  "ko": "진지하게 하는 말이야.; 농담 아니야."
+}, {
+  "id": 170,
+  "word": "I am short-changed. 잔돈이 모자라는데요.",
+  "en": "I am short-changed.",
+  "ko": "잔돈이 모자라는데요."
+}, {
+  "id": 171,
+  "word": "I am single. 나는 배우자가 없어요. (미혼, 이혼)",
+  "en": "I am single.",
+  "ko": "나는 배우자가 없어요. (미혼, 이혼)"
+}, {
+  "id": 172,
+  "word": "I am sitting on thefence. 이러지도 저러지도 못하고 있어요.; 관망하고 있어요.; 양다리 걸치고 있어요.",
+  "en": "I am sitting on thefence.",
+  "ko": "이러지도 저러지도 못하고 있어요.; 관망하고 있어요.; 양다리 걸치고 있어요."
+}, {
+  "id": 173,
+  "word": "I am sorry. 미안해요.",
+  "en": "I am sorry.",
+  "ko": "미안해요."
+}, {
+  "id": 174,
+  "word": "I am starving to death. 배 고파 죽겠어.",
+  "en": "I am starving to death.",
+  "ko": "배 고파 죽겠어."
+}, {
+  "id": 175,
+  "word": "I am stuffed. 많이 먹었어요.; 더 먹을 수 없을만큼 배불러요.",
+  "en": "I am stuffed.",
+  "ko": "많이 먹었어요.; 더 먹을 수 없을만큼 배불러요."
+}, {
+  "id": 176,
+  "word": "I am upset. 무척 속상합니다.",
+  "en": "I am upset.",
+  "ko": "무척 속상합니다."
+}, {
+  "id": 177,
+  "word": "I bet. 내가 장담하죠.; 물론이죠.",
+  "en": "I bet.",
+  "ko": "내가 장담하죠.; 물론이죠."
+}, {
+  "id": 178,
+  "word": "I can tell. 그렇게 보이는데요.; 그래 보여요.",
+  "en": "I can tell.",
+  "ko": "그렇게 보이는데요.; 그래 보여요."
+}, {
+  "id": 179,
+  "word": "I can handle it. 내가 할 수 있어요.",
+  "en": "I can handle it.",
+  "ko": "내가 할 수 있어요."
+}, {
+  "id": 180,
+  "word": "I cannot handle it anymore. 난 더 이상 감당할 수 없네요.",
+  "en": "I cannot handle it anymore.",
+  "ko": "난 더 이상 감당할 수 없네요."
+}, {
+  "id": 181,
+  "word": "I can’t afford that. 감당이 안돼요.; 제 형편에 무리예요.",
+  "en": "I can’t afford that.",
+  "ko": "감당이 안돼요.; 제 형편에 무리예요."
+}, {
+  "id": 182,
+  "word": "I can’t help it. 어쩔 수 없어요.; 피할 수 없어요.",
+  "en": "I can’t help it.",
+  "ko": "어쩔 수 없어요.; 피할 수 없어요."
+}, {
+  "id": 183,
+  "word": "I can't say for sure. 확실히 말하지는 못 하겠어요.",
+  "en": "I can't say for sure.",
+  "ko": "확실히 말하지는 못 하겠어요."
+}, {
+  "id": 184,
+  "word": "I can't stand it. 더 이상 견딜 수 없어요.; 못 참겠어요.",
+  "en": "I can't stand it.",
+  "ko": "더 이상 견딜 수 없어요.; 못 참겠어요."
+}, {
+  "id": 185,
+  "word": "I can't thank you enough. 뭐라고 감사드려야 할지 모르겠어요.; 정말 고마워요.",
+  "en": "I can't thank you enough.",
+  "ko": "뭐라고 감사드려야 할지 모르겠어요.; 정말 고마워요."
+}, {
+  "id": 186,
+  "word": "I didn't mean it. 그런 뜻이 아니에요.",
+  "en": "I didn't mean it.",
+  "ko": "그런 뜻이 아니에요."
+}, {
+  "id": 187,
+  "word": "I didn't mean to. 그렇게 할 의도는 아니었어요.; 일부러 그런 건 아니에요.",
+  "en": "I didn't mean to.",
+  "ko": "그렇게 할 의도는 아니었어요.; 일부러 그런 건 아니에요."
+}, {
+  "id": 188,
+  "word": "I don’t believe it. 난 믿지 않아요.",
+  "en": "I don’t believe it.",
+  "ko": "난 믿지 않아요."
+}, {
+  "id": 189,
+  "word": "I don't care. 상관없어요.",
+  "en": "I don't care.",
+  "ko": "상관없어요."
+}, {
+  "id": 190,
+  "word": "I don't get it. 이해를 못하겠네",
+  "en": "I don't get it.",
+  "ko": "이해를 못하겠네"
+}, {
+  "id": 191,
+  "word": "I don't like it. 그것은 싫어요.",
+  "en": "I don't like it.",
+  "ko": "그것은 싫어요."
+}, {
+  "id": 192,
+  "word": "I doubt it. 아닌 것 같은데..",
+  "en": "I doubt it.",
+  "ko": "아닌 것 같은데.."
+}, {
+  "id": 193,
+  "word": "I feel the same way. 저도 똑같이 느꼈어요.",
+  "en": "I feel the same way.",
+  "ko": "저도 똑같이 느꼈어요."
+}, {
+  "id": 194,
+  "word": "I get it. 알아 들었어요.",
+  "en": "I get it.",
+  "ko": "알아 들었어요."
+}, {
+  "id": 195,
+  "word": "I got lost. 난 길을 잃었어요.",
+  "en": "I got lost.",
+  "ko": "난 길을 잃었어요."
+}, {
+  "id": 196,
+  "word": "I have got to go now. 이제 가야겠네요.",
+  "en": "I have got to go now.",
+  "ko": "이제 가야겠네요."
+}, {
+  "id": 197,
+  "word": "I have had enough. I quit. 난 이제 진저리가 나요. 그만 둘래요.",
+  "en": "I have had enough. I quit.",
+  "ko": "난 이제 진저리가 나요. 그만 둘래요."
+}, {
+  "id": 198,
+  "word": "I hardly know him. 나는 그 사람을 잘 모릅니다.",
+  "en": "I hardly know him.",
+  "ko": "나는 그 사람을 잘 모릅니다."
+}, {
+  "id": 199,
+  "word": "I hate to eat and run but ... 먹자마자 가기는 싫지만…",
+  "en": "I hate to eat and run but ...",
+  "ko": "먹자마자 가기는 싫지만…"
+}, {
+  "id": 200,
+  "word": "I have a long way to go. 갈 길이 머네요.",
+  "en": "I have a long way to go.",
+  "ko": "갈 길이 머네요."
+}, {
+  "id": 201,
+  "word": "I have no appetite. 식욕이 없어요.",
+  "en": "I have no appetite.",
+  "ko": "식욕이 없어요."
+}, {
+  "id": 202,
+  "word": "I have no clue. 짐작도 못하겠어요.; 어찌할지 모르겠어요.",
+  "en": "I have no clue.",
+  "ko": "짐작도 못하겠어요.; 어찌할지 모르겠어요."
+}, {
+  "id": 203,
+  "word": "I have no energy. 의욕이 없어요.",
+  "en": "I have no energy.",
+  "ko": "의욕이 없어요."
+}, {
+  "id": 204,
+  "word": "I have no idea. 전혀 몰라요.",
+  "en": "I have no idea.",
+  "ko": "전혀 몰라요."
+}, {
+  "id": 205,
+  "word": "I have no time. 시간 없어요.; 바빠요.",
+  "en": "I have no time.",
+  "ko": "시간 없어요.; 바빠요."
+}, {
+  "id": 206,
+  "word": "I haven't got all day. 좀 서둘러 주세요. 시간이 별로 없어서요.",
+  "en": "I haven't got all day.",
+  "ko": "좀 서둘러 주세요. 시간이 별로 없어서요."
+}, {
+  "id": 207,
+  "word": "I hear you loud and clear. 잘 듣고 있습니다.",
+  "en": "I hear you loud and clear.",
+  "ko": "잘 듣고 있습니다."
+}, {
+  "id": 208,
+  "word": "I know what! 아, 알았어요!",
+  "en": "I know what!",
+  "ko": "아, 알았어요!"
+}, {
+  "id": 209,
+  "word": "I love it. 정말 좋아해.",
+  "en": "I love it.",
+  "ko": "정말 좋아해."
+}, {
+  "id": 210,
+  "word": "I made it. 제가 해냈어요.",
+  "en": "I made it.",
+  "ko": "제가 해냈어요."
+}, {
+  "id": 211,
+  "word": "I mean it. 정말입니다. 농담 아니에요.",
+  "en": "I mean it.",
+  "ko": "정말입니다. 농담 아니에요."
+}, {
+  "id": 212,
+  "word": "I owe you one. 신세 좀 지겠습니다.",
+  "en": "I owe you one.",
+  "ko": "신세 좀 지겠습니다."
+}, {
+  "id": 213,
+  "word": "I see. 알겠습니다.",
+  "en": "I see.",
+  "ko": "알겠습니다."
+}, {
+  "id": 214,
+  "word": "I still love you. 난 널 아직도 사랑해.",
+  "en": "I still love you.",
+  "ko": "난 널 아직도 사랑해."
+}, {
+  "id": 215,
+  "word": "I swear to God. 신에게 맹세해.",
+  "en": "I swear to God.",
+  "ko": "신에게 맹세해."
+}, {
+  "id": 216,
+  "word": "I taught myself. 혼자 (독학으로) 익혔어요.",
+  "en": "I taught myself.",
+  "ko": "혼자 (독학으로) 익혔어요."
+}, {
+  "id": 217,
+  "word": "I was lucky. 정말 운이 좋았죠.",
+  "en": "I was lucky.",
+  "ko": "정말 운이 좋았죠."
+}, {
+  "id": 218,
+  "word": "I was told that. 그렇게 들었어요.",
+  "en": "I was told that.",
+  "ko": "그렇게 들었어요."
+}, {
+  "id": 219,
+  "word": "I will be in touch. 제가 연락을 드릴게요.",
+  "en": "I will be in touch.",
+  "ko": "제가 연락을 드릴게요."
+}, {
+  "id": 220,
+  "word": "I will do it for you. 제가 해 드리죠.",
+  "en": "I will do it for you.",
+  "ko": "제가 해 드리죠."
+}, {
+  "id": 221,
+  "word": "I will drink to that. 그 말에 동감합니다.",
+  "en": "I will drink to that.",
+  "ko": "그 말에 동감합니다."
+}, {
+  "id": 222,
+  "word": "I will get it. 제가 (전화 등을) 받을게요.",
+  "en": "I will get it.",
+  "ko": "제가 (전화 등을) 받을게요."
+}, {
+  "id": 223,
+  "word": "I will miss you. 나는 네가 그리울 거야.",
+  "en": "I will miss you.",
+  "ko": "나는 네가 그리울 거야."
+}, {
+  "id": 224,
+  "word": "I will never make it on time. 제시간에 가기는 틀렸군.",
+  "en": "I will never make it on time.",
+  "ko": "제시간에 가기는 틀렸군."
+}, {
+  "id": 225,
+  "word": "I wouldn't say no. 아니라고는 말하지 않을게요.",
+  "en": "I wouldn't say no.",
+  "ko": "아니라고는 말하지 않을게요."
+}, {
+  "id": 226,
+  "word": "I'm coming. 가요, 갑니다.",
+  "en": "I'm coming.",
+  "ko": "가요, 갑니다."
+}, {
+  "id": 227,
+  "word": "In a sense, he is nothing but a suit. 어떤 의미에서, 그 사람은 허깨비와 다르지 않아.",
+  "en": "In a sense, he is nothing but a suit.",
+  "ko": "어떤 의미에서, 그 사람은 허깨비와 다르지 않아."
+}, {
+  "id": 228,
+  "word": "Incredible. 대단해.",
+  "en": "Incredible.",
+  "ko": "대단해."
+}, {
+  "id": 229,
+  "word": "Is that all? 그게 전부에요?",
+  "en": "Is that all?",
+  "ko": "그게 전부에요?"
+}, {
+  "id": 230,
+  "word": "It is chilly. 날이 쌀쌀하네.",
+  "en": "It is chilly.",
+  "ko": "날이 쌀쌀하네."
+}, {
+  "id": 231,
+  "word": "It is humid. 날이 습하네.",
+  "en": "It is humid.",
+  "ko": "날이 습하네."
+}, {
+  "id": 232,
+  "word": "It is muggy 날이 후텁지근하네.",
+  "en": "It is muggy",
+  "ko": "날이 후텁지근하네."
+}, {
+  "id": 233,
+  "word": "It is out of style. 유행이 아니네요.",
+  "en": "It is out of style.",
+  "ko": "유행이 아니네요."
+}, {
+  "id": 234,
+  "word": "It is painful for me. 그건 저에게 고통스럽네요.",
+  "en": "It is painful for me.",
+  "ko": "그건 저에게 고통스럽네요."
+}, {
+  "id": 235,
+  "word": "It is time for lunch. 점심 시간입니다.",
+  "en": "It is time for lunch.",
+  "ko": "점심 시간입니다."
+}, {
+  "id": 236,
+  "word": "It is time to go. 가야 할 시간입니다.",
+  "en": "It is time to go.",
+  "ko": "가야 할 시간입니다."
+}, {
+  "id": 237,
+  "word": "It is windy. 바람이 부네.",
+  "en": "It is windy.",
+  "ko": "바람이 부네."
+}, {
+  "id": 238,
+  "word": "It makes sense. 말이 되네.",
+  "en": "It makes sense.",
+  "ko": "말이 되네."
+}, {
+  "id": 239,
+  "word": "It takes time. 시간이 걸립니다.",
+  "en": "It takes time.",
+  "ko": "시간이 걸립니다."
+}, {
+  "id": 240,
+  "word": "It’s for you. 여기 전화 왔어요.",
+  "en": "It’s for you.",
+  "ko": "여기 전화 왔어요."
+}, {
+  "id": 241,
+  "word": "It’s not fair. 공평하지 않아요. = It's unfair.",
+  "en": "It’s not fair.",
+  "ko": "공평하지 않아요. = It's unfair."
+}, {
+  "id": 242,
+  "word": "It's all right. 괜찮습니다.",
+  "en": "It's all right.",
+  "ko": "괜찮습니다."
+}, {
+  "id": 243,
+  "word": "It's beautiful. 아름답군요.",
+  "en": "It's beautiful.",
+  "ko": "아름답군요."
+}, {
+  "id": 244,
+  "word": "It's cool. 멋있네.; 멋진데!",
+  "en": "It's cool.",
+  "ko": "멋있네.; 멋진데!"
+}, {
+  "id": 245,
+  "word": "It's free. 그건 공짜입니다.",
+  "en": "It's free.",
+  "ko": "그건 공짜입니다."
+}, {
+  "id": 246,
+  "word": "It's freezing. 엄청 춥네.",
+  "en": "It's freezing.",
+  "ko": "엄청 춥네."
+}, {
+  "id": 247,
+  "word": "It's my fault. 제 잘못입니다.",
+  "en": "It's my fault.",
+  "ko": "제 잘못입니다."
+}, {
+  "id": 248,
+  "word": "It's all your fault. 모두 네 잘못이야.",
+  "en": "It's all your fault.",
+  "ko": "모두 네 잘못이야."
+}, {
+  "id": 249,
+  "word": "It's my pleasure. 해드릴 수 있어서 기쁩니다.; (고맙다는 말을 듣고) 천만에요.",
+  "en": "It's my pleasure.",
+  "ko": "해드릴 수 있어서 기쁩니다.; (고맙다는 말을 듣고) 천만에요."
+}, {
+  "id": 250,
+  "word": "It's my turn. 제 차례입니다.",
+  "en": "It's my turn.",
+  "ko": "제 차례입니다."
+}, {
+  "id": 251,
+  "word": "It's now or never. 지금 아니면 앞으로 못해.; 지금이 절호의 기회야.",
+  "en": "It's now or never.",
+  "ko": "지금 아니면 앞으로 못해.; 지금이 절호의 기회야."
+}, {
+  "id": 252,
+  "word": "It's on me. (식당 등에서) 이건 제가 살게요.",
+  "en": "It's on me.",
+  "ko": "(식당 등에서) 이건 제가 살게요."
+}, {
+  "id": 253,
+  "word": "It's on the house. 이건 이 식당에서 무료로 제공하는 겁니다.",
+  "en": "It's on the house.",
+  "ko": "이건 이 식당에서 무료로 제공하는 겁니다."
+}, {
+  "id": 254,
+  "word": "It's really bad. 아주 나빠요.",
+  "en": "It's really bad.",
+  "ko": "아주 나빠요."
+}, {
+  "id": 255,
+  "word": "It's tough. 힘들어요.",
+  "en": "It's tough.",
+  "ko": "힘들어요."
+}, {
+  "id": 256,
+  "word": "It's up to you. 이 일은 네 의사에 달렸다.",
+  "en": "It's up to you.",
+  "ko": "이 일은 네 의사에 달렸다."
+}, {
+  "id": 257,
+  "word": "It's your turn. 네 차례다.",
+  "en": "It's your turn.",
+  "ko": "네 차례다."
+}, {
+  "id": 258,
+  "word": "Just about. 거의.",
+  "en": "Just about.",
+  "ko": "거의."
+}, {
+  "id": 259,
+  "word": "Just kidding. 그냥 농담이에요.",
+  "en": "Just kidding.",
+  "ko": "그냥 농담이에요."
+}, {
+  "id": 260,
+  "word": "Just looking. (상점 등에서) 그냥 둘러보고 있어요.",
+  "en": "Just looking.",
+  "ko": "(상점 등에서) 그냥 둘러보고 있어요."
+}, {
+  "id": 261,
+  "word": "Just a moment. 잠시만요.",
+  "en": "Just a moment.",
+  "ko": "잠시만요."
+}, {
+  "id": 262,
+  "word": "Keep an eye on this, will you? 이것 좀 챙겨봐 주세요. 그래줄 거죠?",
+  "en": "Keep an eye on this, will you?",
+  "ko": "이것 좀 챙겨봐 주세요. 그래줄 거죠?"
+}, {
+  "id": 263,
+  "word": "Keep going. 계속 가세요.",
+  "en": "Keep going.",
+  "ko": "계속 가세요."
+}, {
+  "id": 264,
+  "word": "Keep in touch. 계속 연락합시다.",
+  "en": "Keep in touch.",
+  "ko": "계속 연락합시다."
+}, {
+  "id": 265,
+  "word": "Keep it confidential. 대외비로 해주세요.",
+  "en": "Keep it confidential.",
+  "ko": "대외비로 해주세요."
+}, {
+  "id": 266,
+  "word": "Keep it to yourself. 비밀로 해 주세요.",
+  "en": "Keep it to yourself.",
+  "ko": "비밀로 해 주세요."
+}, {
+  "id": 267,
+  "word": "Keep looking. 계속해서 찾아봐요.",
+  "en": "Keep looking.",
+  "ko": "계속해서 찾아봐요."
+}, {
+  "id": 268,
+  "word": "Keep out of my way. 좀 비켜주세요. ; 방해하지 마.",
+  "en": "Keep out of my way.",
+  "ko": "좀 비켜주세요. ; 방해하지 마."
+}, {
+  "id": 269,
+  "word": "Keep the change. 잔돈은 가지셔도 돼요.",
+  "en": "Keep the change.",
+  "ko": "잔돈은 가지셔도 돼요."
+}, {
+  "id": 270,
+  "word": "Keep your chin up! 고개 들어요.; 낙담하지 말고, 기운 내세요.",
+  "en": "Keep your chin up!",
+  "ko": "고개 들어요.; 낙담하지 말고, 기운 내세요."
+}, {
+  "id": 271,
+  "word": "Knock it off. (상대가 놀리거나 황당한 얘기할 때) 그만 좀 해.",
+  "en": "Knock it off.",
+  "ko": "(상대가 놀리거나 황당한 얘기할 때) 그만 좀 해."
+}, {
+  "id": 272,
+  "word": "Large or small? 큰 거, 아니면 작은 거?",
+  "en": "Large or small?",
+  "ko": "큰 거, 아니면 작은 거?"
+}, {
+  "id": 273,
+  "word": "Let it be! 내버려 둬!",
+  "en": "Let it be!",
+  "ko": "내버려 둬!"
+}, {
+  "id": 274,
+  "word": "Let me see… 음, 어디 보자…",
+  "en": "Let me see…",
+  "ko": "음, 어디 보자…"
+}, {
+  "id": 275,
+  "word": "Let me think about it. 음, 제가 한번 생각해 보죠.",
+  "en": "Let me think about it.",
+  "ko": "음, 제가 한번 생각해 보죠."
+}, {
+  "id": 276,
+  "word": "Let's give him a big hand. 그 사람에게 큰 박수를 보냅시다.",
+  "en": "Let's give him a big hand.",
+  "ko": "그 사람에게 큰 박수를 보냅시다."
+}, {
+  "id": 277,
+  "word": "Let's call it a day. 오늘은 이걸로 마치죠.; 오늘은 여기까지 하죠.",
+  "en": "Let's call it a day.",
+  "ko": "오늘은 이걸로 마치죠.; 오늘은 여기까지 하죠."
+}, {
+  "id": 278,
+  "word": "Let's eat out. 자, 외식합시다.",
+  "en": "Let's eat out.",
+  "ko": "자, 외식합시다."
+}, {
+  "id": 279,
+  "word": "Let's get down to business. 자, 본론으로 들어갑시다.",
+  "en": "Let's get down to business.",
+  "ko": "자, 본론으로 들어갑시다."
+}, {
+  "id": 280,
+  "word": "Let's get together sometime. 언제 한번 함께 보죠.",
+  "en": "Let's get together sometime.",
+  "ko": "언제 한번 함께 보죠."
+}, {
+  "id": 281,
+  "word": "Let's go over it one more time. 자, 한번 더 살펴 보죠.",
+  "en": "Let's go over it one more time.",
+  "ko": "자, 한번 더 살펴 보죠."
+}, {
+  "id": 282,
+  "word": "Let's see. 자, 한번 볼까.",
+  "en": "Let's see.",
+  "ko": "자, 한번 볼까."
+}, {
+  "id": 283,
+  "word": "Let's split the bill. 나누어서 냅시다.",
+  "en": "Let's split the bill.",
+  "ko": "나누어서 냅시다."
+}, {
+  "id": 284,
+  "word": "Let's try. 한번 해보죠.",
+  "en": "Let's try.",
+  "ko": "한번 해보죠."
+}, {
+  "id": 285,
+  "word": "Let's wrap it up. 이만 마치자.; (수업 등) 오늘은 여기까지.",
+  "en": "Let's wrap it up.",
+  "ko": "이만 마치자.; (수업 등) 오늘은 여기까지."
+}, {
+  "id": 286,
+  "word": "Look who's here. 아니 이게 누구야?",
+  "en": "Look who's here.",
+  "ko": "아니 이게 누구야?"
+}, {
+  "id": 287,
+  "word": "Lucky you! 자네 운이 좋았어!",
+  "en": "Lucky you!",
+  "ko": "자네 운이 좋았어!"
+}, {
+  "id": 288,
+  "word": "Make a way! 길 비켜 주세요.",
+  "en": "Make a way!",
+  "ko": "길 비켜 주세요."
+}, {
+  "id": 289,
+  "word": "Make mine well done. (음식 주문할 때) 내 것은 well done으로 해주세요.",
+  "en": "Make mine well done.",
+  "ko": "(음식 주문할 때) 내 것은 well done으로 해주세요."
+}, {
+  "id": 290,
+  "word": "Make that two, please. 나도 같은 것으로 주문할게요.",
+  "en": "Make that two, please.",
+  "ko": "나도 같은 것으로 주문할게요."
+}, {
+  "id": 291,
+  "word": "Make yourself at home. '내 집이다' 생각하고 편히 지내세요.",
+  "en": "Make yourself at home. '",
+  "ko": "내 집이다' 생각하고 편히 지내세요."
+}, {
+  "id": 292,
+  "word": "Many thanks in advance. 미리 감사드려요.",
+  "en": "Many thanks in advance.",
+  "ko": "미리 감사드려요."
+}, {
+  "id": 293,
+  "word": "Many thanks. 정말 고마워요.",
+  "en": "Many thanks.",
+  "ko": "정말 고마워요."
+}, {
+  "id": 294,
+  "word": "May I interrupt you? 제가 실례를 해도 될까요?",
+  "en": "May I interrupt you?",
+  "ko": "제가 실례를 해도 될까요?"
+}, {
+  "id": 295,
+  "word": "Maybe. 그럴지도 모르죠.",
+  "en": "Maybe.",
+  "ko": "그럴지도 모르죠."
+}, {
+  "id": 296,
+  "word": "Maybe not. 그렇지 않을지도 모르죠.",
+  "en": "Maybe not.",
+  "ko": "그렇지 않을지도 모르죠."
+}, {
+  "id": 297,
+  "word": "Maybe some other time. 다른 때에 보자구요.",
+  "en": "Maybe some other time.",
+  "ko": "다른 때에 보자구요."
+}, {
+  "id": 298,
+  "word": "Me, too. 나도 그래.",
+  "en": "Me, too.",
+  "ko": "나도 그래."
+}, {
+  "id": 299,
+  "word": "Money talks. 결국 돈이지 뭐.",
+  "en": "Money talks.",
+  "ko": "결국 돈이지 뭐."
+}, {
+  "id": 300,
+  "word": "Most likely. 아마도 그럴 것입니다.",
+  "en": "Most likely.",
+  "ko": "아마도 그럴 것입니다."
+}, {
+  "id": 301,
+  "word": "My pleasure. 해드릴 수 있어서 기쁩니다.; (고맙다는 말을 듣고) 천만에요.",
+  "en": "My pleasure.",
+  "ko": "해드릴 수 있어서 기쁩니다.; (고맙다는 말을 듣고) 천만에요."
+}, {
+  "id": 302,
+  "word": "Never better. 최고예요.; 아주 좋아요.",
+  "en": "Never better.",
+  "ko": "최고예요.; 아주 좋아요."
+}, {
+  "id": 303,
+  "word": "Never mind. 신경쓰지 마세요.",
+  "en": "Never mind.",
+  "ko": "신경쓰지 마세요."
+}, {
+  "id": 304,
+  "word": "Never say die. 포기하지 마.",
+  "en": "Never say die.",
+  "ko": "포기하지 마."
+}, {
+  "id": 305,
+  "word": "Never too late. 너무 늦은 게 아냐.",
+  "en": "Never too late.",
+  "ko": "너무 늦은 게 아냐."
+}, {
+  "id": 306,
+  "word": "Next time. 다음 번에.",
+  "en": "Next time.",
+  "ko": "다음 번에."
+}, {
+  "id": 307,
+  "word": "Nice meeting you. (헤어지며) 오늘 만나서 반가웠어요.",
+  "en": "Nice meeting you.",
+  "ko": "(헤어지며) 오늘 만나서 반가웠어요."
+}, {
+  "id": 308,
+  "word": "Nice talking to you. (헤어질 때) 오늘 대화 즐거웠어요.",
+  "en": "Nice talking to you.",
+  "ko": "(헤어질 때) 오늘 대화 즐거웠어요."
+}, {
+  "id": 309,
+  "word": "No kidding. 정말이야?; 그럴 리가!",
+  "en": "No kidding.",
+  "ko": "정말이야?; 그럴 리가!"
+}, {
+  "id": 310,
+  "word": "No problem. 문제 안됩니다.; 괜찮아요.",
+  "en": "No problem.",
+  "ko": "문제 안됩니다.; 괜찮아요."
+}, {
+  "id": 311,
+  "word": "No sweat. 그건 일도 아니죠.; 쉬운 일이예요.",
+  "en": "No sweat.",
+  "ko": "그건 일도 아니죠.; 쉬운 일이예요."
+}, {
+  "id": 312,
+  "word": "No way. 절대 안돼.",
+  "en": "No way.",
+  "ko": "절대 안돼."
+}, {
+  "id": 313,
+  "word": "No wonder. 어쩐지 그럴 거 같더라.; 당연하지. = I'm not surprise at all!",
+  "en": "No wonder.",
+  "ko": "어쩐지 그럴 거 같더라.; 당연하지. = I'm not surprise at all!"
+}, {
+  "id": 314,
+  "word": "Not a chance. 절대 안되죠.",
+  "en": "Not a chance.",
+  "ko": "절대 안되죠."
+}, {
+  "id": 315,
+  "word": "Not bad. 나쁘지 않은데요.; 좋은데요.",
+  "en": "Not bad.",
+  "ko": "나쁘지 않은데요.; 좋은데요."
+}, {
+  "id": 316,
+  "word": "Not really. 그렇지는 않아.",
+  "en": "Not really.",
+  "ko": "그렇지는 않아."
+}, {
+  "id": 317,
+  "word": "Not too good. 그리 좋지 않아.; 그저 그래.",
+  "en": "Not too good.",
+  "ko": "그리 좋지 않아.; 그저 그래."
+}, {
+  "id": 318,
+  "word": "Not too bad. 그리 나쁘지 않아.; 그저 그래.",
+  "en": "Not too bad.",
+  "ko": "그리 나쁘지 않아.; 그저 그래."
+}, {
+  "id": 319,
+  "word": "Nothing much. 별것 없어.",
+  "en": "Nothing much.",
+  "ko": "별것 없어."
+}, {
+  "id": 320,
+  "word": "Nothing new. 새 소식이랄 거는 없어.",
+  "en": "Nothing new.",
+  "ko": "새 소식이랄 거는 없어."
+}, {
+  "id": 321,
+  "word": "Nothing new about that. 그것에 대해서는 달라진 게 없어요.",
+  "en": "Nothing new about that.",
+  "ko": "그것에 대해서는 달라진 게 없어요."
+}, {
+  "id": 322,
+  "word": "Now what? 이제 어쩌지?",
+  "en": "Now what?",
+  "ko": "이제 어쩌지?"
+}, {
+  "id": 323,
+  "word": "Now you are talking. 이제야 말이 통하는군요.",
+  "en": "Now you are talking.",
+  "ko": "이제야 말이 통하는군요."
+}, {
+  "id": 324,
+  "word": "Occupied. (공용화장실 등에서) 사용 중임.",
+  "en": "Occupied.",
+  "ko": "(공용화장실 등에서) 사용 중임."
+}, {
+  "id": 325,
+  "word": "Oh, dear! 아니, 저런!",
+  "en": "Oh, dear!",
+  "ko": "아니, 저런!"
+}, {
+  "id": 326,
+  "word": "Okay. 그래. 알았어요.",
+  "en": "Okay.",
+  "ko": "그래. 알았어요."
+}, {
+  "id": 327,
+  "word": "Okeydokey. 좋아욤. (Okay를 친근하게 말하는 방식)",
+  "en": "Okeydokey.",
+  "ko": "좋아욤. (Okay를 친근하게 말하는 방식)"
+}, {
+  "id": 328,
+  "word": "On the contrary. 반대로",
+  "en": "On the contrary.",
+  "ko": "반대로"
+}, {
+  "id": 329,
+  "word": "Once in a blue moon. 아주 가끔.",
+  "en": "Once in a blue moon.",
+  "ko": "아주 가끔."
+}, {
+  "id": 330,
+  "word": "Ouch! 아야!",
+  "en": "Ouch!",
+  "ko": "아야!"
+}, {
+  "id": 331,
+  "word": "Out of the question. 불가능해요.; 고려할 필요도 없어요.",
+  "en": "Out of the question.",
+  "ko": "불가능해요.; 고려할 필요도 없어요."
+}, {
+  "id": 332,
+  "word": "Pick it up! 주워요!",
+  "en": "Pick it up!",
+  "ko": "주워요!"
+}, {
+  "id": 333,
+  "word": "Please enjoy yourself. 자, 좀 즐기세요.",
+  "en": "Please enjoy yourself.",
+  "ko": "자, 좀 즐기세요."
+}, {
+  "id": 334,
+  "word": "Please relax. 긴장을 푸세요.; 마음 편히 가지세요. = Relax.",
+  "en": "Please relax.",
+  "ko": "긴장을 푸세요.; 마음 편히 가지세요. = Relax."
+}, {
+  "id": 335,
+  "word": "Please! 제발!",
+  "en": "Please!",
+  "ko": "제발!"
+}, {
+  "id": 336,
+  "word": "Poor thing. 저런.; 안되었어요.; 안쓰러워요.; 불쌍해요.",
+  "en": "Poor thing.",
+  "ko": "저런.; 안되었어요.; 안쓰러워요.; 불쌍해요."
+}, {
+  "id": 337,
+  "word": "Pretty good! 정말 좋죠.",
+  "en": "Pretty good!",
+  "ko": "정말 좋죠."
+}, {
+  "id": 338,
+  "word": "Really? 정말?",
+  "en": "Really?",
+  "ko": "정말?"
+}, {
+  "id": 339,
+  "word": "Same here. 저도 동감입니다.",
+  "en": "Same here.",
+  "ko": "저도 동감입니다."
+}, {
+  "id": 340,
+  "word": "Same to you. (덕담에) 너도 그러길 바란다.; (비난에) 너나 그래라.",
+  "en": "Same to you.",
+  "ko": "(덕담에) 너도 그러길 바란다.; (비난에) 너나 그래라."
+}, {
+  "id": 341,
+  "word": "Say cheese! (사진 찍을 때) 김~치 하세요.",
+  "en": "Say cheese!",
+  "ko": "(사진 찍을 때) 김~치 하세요."
+}, {
+  "id": 342,
+  "word": "Say hello for me. 나 대신 안부 전해줘요.",
+  "en": "Say hello for me.",
+  "ko": "나 대신 안부 전해줘요."
+}, {
+  "id": 343,
+  "word": "Say that again? (잘 못 알아 들었을 때) 다시 말씀해 주실래요?",
+  "en": "Say that again?",
+  "ko": "(잘 못 알아 들었을 때) 다시 말씀해 주실래요?"
+}, {
+  "id": 344,
+  "word": "Say when. (잔에 물 따르며, 따른 양이 충분할 때) '그만'이라고 말해주세요.",
+  "en": "Say when.",
+  "ko": "(잔에 물 따르며, 따른 양이 충분할 때) '그만'이라고 말해주세요."
+}, {
+  "id": 345,
+  "word": "See you later! 나중에 봐요. = See you. = Later!",
+  "en": "See you later!",
+  "ko": "나중에 봐요. = See you. = Later!"
+}, {
+  "id": 346,
+  "word": "Shame on you. (상당히 정중하게 비난하며) 부끄러운 줄 아세요.",
+  "en": "Shame on you.",
+  "ko": "(상당히 정중하게 비난하며) 부끄러운 줄 아세요."
+}, {
+  "id": 347,
+  "word": "She is my (ideal) type. 그 여자분은 내가 좋아하는 유형이에요.",
+  "en": "She is my",
+  "ko": "(ideal) type. 그 여자분은 내가 좋아하는 유형이에요."
+}, {
+  "id": 348,
+  "word": "She is very sophisticated. 그 여자분은 무척 세련된 분이네요.",
+  "en": "She is very sophisticated.",
+  "ko": "그 여자분은 무척 세련된 분이네요."
+}, {
+  "id": 349,
+  "word": "Shoot! (Shit 보다는 좀더 완곡하게) 이런, 쳇!",
+  "en": "Shoot!",
+  "ko": "(Shit 보다는 좀더 완곡하게) 이런, 쳇!"
+}, {
+  "id": 350,
+  "word": "Skip it! 다음으로 넘어가죠.",
+  "en": "Skip it!",
+  "ko": "다음으로 넘어가죠."
+}, {
+  "id": 351,
+  "word": "So much for that. 이제 그 일은 그만 하죠.",
+  "en": "So much for that.",
+  "ko": "이제 그 일은 그만 하죠."
+}, {
+  "id": 352,
+  "word": "So soon? 이렇게 일찍?",
+  "en": "So soon?",
+  "ko": "이렇게 일찍?"
+}, {
+  "id": 353,
+  "word": "So what? 그래서 어쩌라고?",
+  "en": "So what?",
+  "ko": "그래서 어쩌라고?"
+}, {
+  "id": 354,
+  "word": "Sold out. 매진.",
+  "en": "Sold out.",
+  "ko": "매진."
+}, {
+  "id": 355,
+  "word": "Something's fishy. 뭔가 수상한 냄새가 나. 뭔가 이상한데.",
+  "en": "Something's fishy.",
+  "ko": "뭔가 수상한 냄새가 나. 뭔가 이상한데."
+}, {
+  "id": 356,
+  "word": "Something's never changed. 절대 안 변하는 것도 있지.",
+  "en": "Something's never changed.",
+  "ko": "절대 안 변하는 것도 있지."
+}, {
+  "id": 357,
+  "word": "Sorry to bother you. 번거롭게 해서 죄송합니다.",
+  "en": "Sorry to bother you.",
+  "ko": "번거롭게 해서 죄송합니다."
+}, {
+  "id": 358,
+  "word": "Sorry? (누구의 말을 잘못 이해했을 때) 뭐라고 하셨죠?",
+  "en": "Sorry?",
+  "ko": "(누구의 말을 잘못 이해했을 때) 뭐라고 하셨죠?"
+}, {
+  "id": 359,
+  "word": "Sounds good. 좋은 생각이에요.",
+  "en": "Sounds good.",
+  "ko": "좋은 생각이에요."
+}, {
+  "id": 360,
+  "word": "Speak out. 말 좀 크게 하세요.",
+  "en": "Speak out.",
+  "ko": "말 좀 크게 하세요."
+}, {
+  "id": 361,
+  "word": "Speaking. (전화건 상대방이 나를 찾을 때) 전데요, 말씀하세요.",
+  "en": "Speaking.",
+  "ko": "(전화건 상대방이 나를 찾을 때) 전데요, 말씀하세요."
+}, {
+  "id": 362,
+  "word": "Speaking Spanish? 스페인어 할 줄 아세요?",
+  "en": "Speaking Spanish?",
+  "ko": "스페인어 할 줄 아세요?"
+}, {
+  "id": 363,
+  "word": "Stay cool. 진정해요.",
+  "en": "Stay cool.",
+  "ko": "진정해요."
+}, {
+  "id": 364,
+  "word": "Stay longer. 좀더 계시죠.",
+  "en": "Stay longer.",
+  "ko": "좀더 계시죠."
+}, {
+  "id": 365,
+  "word": "Stay out of trouble. 괜히 끼어들지 마세요!",
+  "en": "Stay out of trouble.",
+  "ko": "괜히 끼어들지 마세요!"
+}, {
+  "id": 366,
+  "word": "Stick around. 계속 물고 늘어져봐.; 지켜보세요.",
+  "en": "Stick around.",
+  "ko": "계속 물고 늘어져봐.; 지켜보세요."
+}, {
+  "id": 367,
+  "word": "Stick with it. (포기 하지 말고) 계속 해 봐요.",
+  "en": "Stick with it.",
+  "ko": "(포기 하지 말고) 계속 해 봐요."
+}, {
+  "id": 368,
+  "word": "Stop complaining. 불평 좀 그만하시죠.; 투덜대지 좀 마.",
+  "en": "Stop complaining.",
+  "ko": "불평 좀 그만하시죠.; 투덜대지 좀 마."
+}, {
+  "id": 369,
+  "word": "Suit yourself! 좋을 대로 하세요.",
+  "en": "Suit yourself!",
+  "ko": "좋을 대로 하세요."
+}, {
+  "id": 370,
+  "word": "Sure thing. 물론. = Sure.",
+  "en": "Sure thing.",
+  "ko": "물론. = Sure."
+}, {
+  "id": 371,
+  "word": "Sweet dreams. 잘 자요.",
+  "en": "Sweet dreams.",
+  "ko": "잘 자요."
+}, {
+  "id": 372,
+  "word": "Take a guess. 맞춰봐요. = Can you guess? = Guess what?",
+  "en": "Take a guess.",
+  "ko": "맞춰봐요. = Can you guess? = Guess what?"
+}, {
+  "id": 373,
+  "word": "Take care! 잘 가.; 몸 조심해.",
+  "en": "Take care!",
+  "ko": "잘 가.; 몸 조심해."
+}, {
+  "id": 374,
+  "word": "Take my word for it. 그건 내 말만 믿어봐",
+  "en": "Take my word for it.",
+  "ko": "그건 내 말만 믿어봐"
+}, {
+  "id": 375,
+  "word": "Take your time. 천천히 하세요.",
+  "en": "Take your time.",
+  "ko": "천천히 하세요."
+}, {
+  "id": 376,
+  "word": "Tell me about it. 내 말이 그거야.; 누가 아니래.",
+  "en": "Tell me about it.",
+  "ko": "내 말이 그거야.; 누가 아니래."
+}, {
+  "id": 377,
+  "word": "Thank God. 휴우, 다행이다.",
+  "en": "Thank God.",
+  "ko": "휴우, 다행이다."
+}, {
+  "id": 378,
+  "word": "Thanks for calling. 전화해 주셔서 고마워요.",
+  "en": "Thanks for calling.",
+  "ko": "전화해 주셔서 고마워요."
+}, {
+  "id": 379,
+  "word": "Thanks for everything. 여러 가지로 고마워요.",
+  "en": "Thanks for everything.",
+  "ko": "여러 가지로 고마워요."
+}, {
+  "id": 380,
+  "word": "Thanks for the compliment. 칭찬해 주셔서 고맙습니다.",
+  "en": "Thanks for the compliment.",
+  "ko": "칭찬해 주셔서 고맙습니다."
+}, {
+  "id": 381,
+  "word": "Thanks for the ride. 차를 태워다 주어서 고마워요.",
+  "en": "Thanks for the ride.",
+  "ko": "차를 태워다 주어서 고마워요."
+}, {
+  "id": 382,
+  "word": "Thanks, but no thanks. 고맙지만, 저는 괜찮아요.",
+  "en": "Thanks, but no thanks.",
+  "ko": "고맙지만, 저는 괜찮아요."
+}, {
+  "id": 383,
+  "word": "That depends. 경우에 따라 다르죠. = It depends. = Depends.",
+  "en": "That depends.",
+  "ko": "경우에 따라 다르죠. = It depends. = Depends."
+}, {
+  "id": 384,
+  "word": "That figures. 바로 그거군요.",
+  "en": "That figures.",
+  "ko": "바로 그거군요."
+}, {
+  "id": 385,
+  "word": "That happens. 그런 일도 있죠.",
+  "en": "That happens.",
+  "ko": "그런 일도 있죠."
+}, {
+  "id": 386,
+  "word": "That should help. 도움이 될 겁니다.",
+  "en": "That should help.",
+  "ko": "도움이 될 겁니다."
+}, {
+  "id": 387,
+  "word": "That sounds good. 그거 좋은 아이디어네요.",
+  "en": "That sounds good.",
+  "ko": "그거 좋은 아이디어네요."
+}, {
+  "id": 388,
+  "word": "That will be the day. 그렇게 되면 얼마나 좋을까.; 나한테 그런 일이 생길 리 없지.",
+  "en": "That will be the day.",
+  "ko": "그렇게 되면 얼마나 좋을까.; 나한테 그런 일이 생길 리 없지."
+}, {
+  "id": 389,
+  "word": "That's a steal. 거저나 다름없어요.; 심하게 싸죠.",
+  "en": "That's a steal.",
+  "ko": "거저나 다름없어요.; 심하게 싸죠."
+}, {
+  "id": 390,
+  "word": "That's all? 그게 다야?",
+  "en": "That's all?",
+  "ko": "그게 다야?"
+}, {
+  "id": 391,
+  "word": "That's all right. 괜찮아요.",
+  "en": "That's all right.",
+  "ko": "괜찮아요."
+}, {
+  "id": 392,
+  "word": "That's all there is to it. 그게 다지 뭐.",
+  "en": "That's all there is to it.",
+  "ko": "그게 다지 뭐."
+}, {
+  "id": 393,
+  "word": "That's enough about that. 그 정도면 충분해요.",
+  "en": "That's enough about that.",
+  "ko": "그 정도면 충분해요."
+}, {
+  "id": 394,
+  "word": "That's enough. 그만 좀 해둬.; 그거면 충분해요.; 이미 많이 먹었어요.",
+  "en": "That's enough.",
+  "ko": "그만 좀 해둬.; 그거면 충분해요.; 이미 많이 먹었어요."
+}, {
+  "id": 395,
+  "word": "That's good. 잘 되었네요.",
+  "en": "That's good.",
+  "ko": "잘 되었네요."
+}, {
+  "id": 396,
+  "word": "That's hard to say. 뭐라 말하기 곤란하네요.",
+  "en": "That's hard to say.",
+  "ko": "뭐라 말하기 곤란하네요."
+}, {
+  "id": 397,
+  "word": "That's it. 바로 그거야.",
+  "en": "That's it.",
+  "ko": "바로 그거야."
+}, {
+  "id": 398,
+  "word": "That's a nice surprise! 이거 뜻밖인데요.",
+  "en": "That's a nice surprise!",
+  "ko": "이거 뜻밖인데요."
+}, {
+  "id": 399,
+  "word": "That's not fair. 불공평합니다. = That's unfair.",
+  "en": "That's not fair.",
+  "ko": "불공평합니다. = That's unfair."
+}, {
+  "id": 400,
+  "word": "That's right. 맞습니다.",
+  "en": "That's right.",
+  "ko": "맞습니다."
+}, {
+  "id": 401,
+  "word": "That's the way to go. 그래, 그렇게 하는 거지.",
+  "en": "That's the way to go.",
+  "ko": "그래, 그렇게 하는 거지."
+}, {
+  "id": 402,
+  "word": "That's what I mean. 내 말이 그거야.",
+  "en": "That's what I mean.",
+  "ko": "내 말이 그거야."
+}, {
+  "id": 403,
+  "word": "There you are. 여기 있습니다.",
+  "en": "There you are.",
+  "ko": "여기 있습니다."
+}, {
+  "id": 404,
+  "word": "Things will work out all right. 다 잘 될 거야.",
+  "en": "Things will work out all right.",
+  "ko": "다 잘 될 거야."
+}, {
+  "id": 405,
+  "word": "This is just between you\nand me. 우리 둘만의 비밀입니다.",
+  "en": "This is just between you\nand me.",
+  "ko": "우리 둘만의 비밀입니다."
+}, {
+  "id": 406,
+  "word": "This is not much. 약소합니다.",
+  "en": "This is not much.",
+  "ko": "약소합니다."
+}, {
+  "id": 407,
+  "word": "This is urgent. 긴급입니다.",
+  "en": "This is urgent.",
+  "ko": "긴급입니다."
+}, {
+  "id": 408,
+  "word": "This one? 이것 말이에요?",
+  "en": "This one?",
+  "ko": "이것 말이에요?"
+}, {
+  "id": 409,
+  "word": "Time will tell. 시간이 지나면 알게 될 (해결될) 거예요.",
+  "en": "Time will tell.",
+  "ko": "시간이 지나면 알게 될 (해결될) 거예요."
+}, {
+  "id": 410,
+  "word": "Time's up. 시간이 다 되었어요.",
+  "en": "Time's up.",
+  "ko": "시간이 다 되었어요."
+}, {
+  "id": 411,
+  "word": "Too bad! 너무 안 되었어요.",
+  "en": "Too bad!",
+  "ko": "너무 안 되었어요."
+}, {
+  "id": 412,
+  "word": "Too expensive. 너무 비싸네.",
+  "en": "Too expensive.",
+  "ko": "너무 비싸네."
+}, {
+  "id": 413,
+  "word": "To the best of my knowledge. 내가 알고 있는 한.",
+  "en": "To the best of my knowledge.",
+  "ko": "내가 알고 있는 한."
+}, {
+  "id": 414,
+  "word": "Trust me. 날 좀 믿어봐!",
+  "en": "Trust me.",
+  "ko": "날 좀 믿어봐!"
+}, {
+  "id": 415,
+  "word": "Try again. 다시 해 보세요.",
+  "en": "Try again.",
+  "ko": "다시 해 보세요."
+}, {
+  "id": 416,
+  "word": "Uh-uh! 이런!",
+  "en": "Uh-uh!",
+  "ko": "이런!"
+}, {
+  "id": 417,
+  "word": "Unbelievable. 말도 안돼!",
+  "en": "Unbelievable.",
+  "ko": "말도 안돼!"
+}, {
+  "id": 418,
+  "word": "Up to here. (손을 목에 대고) 화가 여기까지 찼어. 폭발 직전이야.",
+  "en": "Up to here.",
+  "ko": "(손을 목에 대고) 화가 여기까지 찼어. 폭발 직전이야."
+}, {
+  "id": 419,
+  "word": "Up or down? (엘리베이터에서) 올라가실 건가요, 내려가실 건가요?",
+  "en": "Up or down?",
+  "ko": "(엘리베이터에서) 올라가실 건가요, 내려가실 건가요?"
+}, {
+  "id": 420,
+  "word": "Wait a minute. 잠시만 기다리세요.",
+  "en": "Wait a minute.",
+  "ko": "잠시만 기다리세요."
+}, {
+  "id": 421,
+  "word": "Watch out! 위험해, 주의해요.",
+  "en": "Watch out!",
+  "ko": "위험해, 주의해요."
+}, {
+  "id": 422,
+  "word": "Watch your language. 말 조심해요.",
+  "en": "Watch your language.",
+  "ko": "말 조심해요."
+}, {
+  "id": 423,
+  "word": "We are in the same boat. 우리는 한 배를 탔어요.; 우리는 같은 운명이죠.",
+  "en": "We are in the same boat.",
+  "ko": "우리는 한 배를 탔어요.; 우리는 같은 운명이죠."
+}, {
+  "id": 424,
+  "word": "Welcome home! 집에 온 걸 환영해요.; 집에 잘 왔어요.",
+  "en": "Welcome home!",
+  "ko": "집에 온 걸 환영해요.; 집에 잘 왔어요."
+}, {
+  "id": 425,
+  "word": "Well done. 잘 했어요.",
+  "en": "Well done.",
+  "ko": "잘 했어요."
+}, {
+  "id": 426,
+  "word": "What a nerve! 뻔뻔하군.; 간덩이가 부었군.",
+  "en": "What a nerve!",
+  "ko": "뻔뻔하군.; 간덩이가 부었군."
+}, {
+  "id": 427,
+  "word": "What a relief! 이제 마음이 놓인다.",
+  "en": "What a relief!",
+  "ko": "이제 마음이 놓인다."
+}, {
+  "id": 428,
+  "word": "What a shame. 부끄러운 일이다.; 수치스러운 일이다.",
+  "en": "What a shame.",
+  "ko": "부끄러운 일이다.; 수치스러운 일이다."
+}, {
+  "id": 429,
+  "word": "What about it? 그게 어떤데요?",
+  "en": "What about it?",
+  "ko": "그게 어떤데요?"
+}, {
+  "id": 430,
+  "word": "What about you? 너는 어때?",
+  "en": "What about you?",
+  "ko": "너는 어때?"
+}, {
+  "id": 431,
+  "word": "What brings you here? 어떤 일로 오셨어요?",
+  "en": "What brings you here?",
+  "ko": "어떤 일로 오셨어요?"
+}, {
+  "id": 432,
+  "word": "What did you say? 뭐라구요?",
+  "en": "What did you say?",
+  "ko": "뭐라구요?"
+}, {
+  "id": 433,
+  "word": "What do you do? 직업이 뭐죠?",
+  "en": "What do you do?",
+  "ko": "직업이 뭐죠?"
+}, {
+  "id": 434,
+  "word": "What do you know? 네가 아는 게 뭐야?",
+  "en": "What do you know?",
+  "ko": "네가 아는 게 뭐야?"
+}, {
+  "id": 435,
+  "word": "What do you mean? 그게 무슨 뜻이야?",
+  "en": "What do you mean?",
+  "ko": "그게 무슨 뜻이야?"
+}, {
+  "id": 436,
+  "word": "What do you say? 뭐라고 하실래요?",
+  "en": "What do you say?",
+  "ko": "뭐라고 하실래요?"
+}, {
+  "id": 437,
+  "word": "What do you think of it? 이것에 대해서 뭐라고 생각하세요?",
+  "en": "What do you think of it?",
+  "ko": "이것에 대해서 뭐라고 생각하세요?"
+}, {
+  "id": 438,
+  "word": "What do you think? 어떻게 생각해?; 생각해 보면 알잖아!",
+  "en": "What do you think?",
+  "ko": "어떻게 생각해?; 생각해 보면 알잖아!"
+}, {
+  "id": 439,
+  "word": "What for? 무엇 때문에? = For what?",
+  "en": "What for?",
+  "ko": "무엇 때문에? = For what?"
+}, {
+  "id": 440,
+  "word": "What is it? 무슨 일이죠?",
+  "en": "What is it?",
+  "ko": "무슨 일이죠?"
+}, {
+  "id": 441,
+  "word": "What makes you say that? 무슨 근거로 그렇게 말하세요?",
+  "en": "What makes you say that?",
+  "ko": "무슨 근거로 그렇게 말하세요?"
+}, {
+  "id": 442,
+  "word": "What time is it? 몇 시죠?",
+  "en": "What time is it?",
+  "ko": "몇 시죠?"
+}, {
+  "id": 443,
+  "word": "What? 뭐라구요?",
+  "en": "What?",
+  "ko": "뭐라구요?"
+}, {
+  "id": 444,
+  "word": "What’s it called? 그것을 뭐라고 부르죠?",
+  "en": "What’s it called?",
+  "ko": "그것을 뭐라고 부르죠?"
+}, {
+  "id": 445,
+  "word": "What’s today's special? 오늘의 특선 요리가 뭐죠?",
+  "en": "What’s today's special?",
+  "ko": "오늘의 특선 요리가 뭐죠?"
+}, {
+  "id": 446,
+  "word": "Whatever you say. 뭐라고 말씀하든지 간에.",
+  "en": "Whatever you say.",
+  "ko": "뭐라고 말씀하든지 간에."
+}, {
+  "id": 447,
+  "word": "What's happening? 무슨 일 있어?; 무슨 일이야?; 새로운 일이라도?",
+  "en": "What's happening?",
+  "ko": "무슨 일 있어?; 무슨 일이야?; 새로운 일이라도?"
+}, {
+  "id": 448,
+  "word": "What's new? 그동안 새로운 게 있었어요?",
+  "en": "What's new?",
+  "ko": "그동안 새로운 게 있었어요?"
+}, {
+  "id": 449,
+  "word": "What's the big deal? 뭐가 그렇게 큰 문제야?; 그래서 어쩌라구?",
+  "en": "What's the big deal?",
+  "ko": "뭐가 그렇게 큰 문제야?; 그래서 어쩌라구?"
+}, {
+  "id": 450,
+  "word": "What's the point? 요점이 뭐죠?",
+  "en": "What's the point?",
+  "ko": "요점이 뭐죠?"
+}, {
+  "id": 451,
+  "word": "What's up? (일상적인 인사로) 헤이!",
+  "en": "What's up?",
+  "ko": "(일상적인 인사로) 헤이!"
+}, {
+  "id": 452,
+  "word": "What's wrong? 뭐가 잘못된 거라도 있나요?; 뭐가 문제죠?; 무슨 일이죠?",
+  "en": "What's wrong?",
+  "ko": "뭐가 잘못된 거라도 있나요?; 뭐가 문제죠?; 무슨 일이죠?"
+}, {
+  "id": 453,
+  "word": "When? 언제?",
+  "en": "When?",
+  "ko": "언제?"
+}, {
+  "id": 454,
+  "word": "Where are we? 여기가 어디지?",
+  "en": "Where are we?",
+  "ko": "여기가 어디지?"
+}, {
+  "id": 455,
+  "word": "Where did you stay? 어디에 머물렀어요?",
+  "en": "Where did you stay?",
+  "ko": "어디에 머물렀어요?"
+}, {
+  "id": 456,
+  "word": "Where do you live? 어디에 사세요?",
+  "en": "Where do you live?",
+  "ko": "어디에 사세요?"
+}, {
+  "id": 457,
+  "word": "Where is a drugstore? 약국이 어디에 있죠?",
+  "en": "Where is a drugstore?",
+  "ko": "약국이 어디에 있죠?"
+}, {
+  "id": 458,
+  "word": "Where to? 어디로?",
+  "en": "Where to?",
+  "ko": "어디로?"
+}, {
+  "id": 459,
+  "word": "Which one? 어느 것이요?",
+  "en": "Which one?",
+  "ko": "어느 것이요?"
+}, {
+  "id": 460,
+  "word": "Who cares? 누가 신경이라도 쓰겠어?; 알게 뭐야!",
+  "en": "Who cares?",
+  "ko": "누가 신경이라도 쓰겠어?; 알게 뭐야!"
+}, {
+  "id": 461,
+  "word": "Who is it? (전화로, 또는 문을 사이에 두고) 누구시죠?",
+  "en": "Who is it?",
+  "ko": "(전화로, 또는 문을 사이에 두고) 누구시죠?"
+}, {
+  "id": 462,
+  "word": "Who knows? 누가 알겠어?",
+  "en": "Who knows?",
+  "ko": "누가 알겠어?"
+}, {
+  "id": 463,
+  "word": "Who's there? 거기 누구죠?",
+  "en": "Who's there?",
+  "ko": "거기 누구죠?"
+}, {
+  "id": 464,
+  "word": "Who's calling? (전화를 받으면서) 누구시죠?",
+  "en": "Who's calling?",
+  "ko": "(전화를 받으면서) 누구시죠?"
+}, {
+  "id": 465,
+  "word": "Who's up next? 다음은 누구 차례죠?",
+  "en": "Who's up next?",
+  "ko": "다음은 누구 차례죠?"
+}, {
+  "id": 466,
+  "word": "Why didn't I think of that? 왜 그걸 생각 못했지?",
+  "en": "Why didn't I think of that?",
+  "ko": "왜 그걸 생각 못했지?"
+}, {
+  "id": 467,
+  "word": "Why not? 왜 안돼?; 못할 이유가 있어?",
+  "en": "Why not?",
+  "ko": "왜 안돼?; 못할 이유가 있어?"
+}, {
+  "id": 468,
+  "word": "Why? 왜?",
+  "en": "Why?",
+  "ko": "왜?"
+}, {
+  "id": 469,
+  "word": "Win-win situation. 양쪽 다 좋은 일이지.",
+  "en": "Win-win situation.",
+  "ko": "양쪽 다 좋은 일이지."
+}, {
+  "id": 470,
+  "word": "With pleasure. 기꺼이.",
+  "en": "With pleasure.",
+  "ko": "기꺼이."
+}, {
+  "id": 471,
+  "word": "Would you like some? 좀 잡수어볼래요?",
+  "en": "Would you like some?",
+  "ko": "좀 잡수어볼래요?"
+}, {
+  "id": 472,
+  "word": "Wow! 우와!",
+  "en": "Wow!",
+  "ko": "우와!"
+}, {
+  "id": 473,
+  "word": "Yeah. 네.",
+  "en": "Yeah.",
+  "ko": "네."
+}, {
+  "id": 474,
+  "word": "Yes and no. 그렇기도 하고 아니기도 하고.",
+  "en": "Yes and no.",
+  "ko": "그렇기도 하고 아니기도 하고."
+}, {
+  "id": 475,
+  "word": "You are a lucky duck. 너는 행운아구나!",
+  "en": "You are a lucky duck.",
+  "ko": "너는 행운아구나!"
+}, {
+  "id": 476,
+  "word": "You are driving me crazy. 너 때문에 내가 돌아버리겠다.",
+  "en": "You are driving me crazy.",
+  "ko": "너 때문에 내가 돌아버리겠다."
+}, {
+  "id": 477,
+  "word": "You are getting better. 너 점점 나아지고 있다.",
+  "en": "You are getting better.",
+  "ko": "너 점점 나아지고 있다."
+}, {
+  "id": 478,
+  "word": "You are soaked! 흠뻑 젖었군요.",
+  "en": "You are soaked!",
+  "ko": "흠뻑 젖었군요."
+}, {
+  "id": 479,
+  "word": "You are teasing me. 지금 저를 놀리시는 거죠.",
+  "en": "You are teasing me.",
+  "ko": "지금 저를 놀리시는 거죠."
+}, {
+  "id": 480,
+  "word": "You're telling me. 완전 공감!",
+  "en": "You're telling me.",
+  "ko": "완전 공감!"
+}, {
+  "id": 481,
+  "word": "You are too much. 너 정말 너무 하는구나.",
+  "en": "You are too much.",
+  "ko": "너 정말 너무 하는구나."
+}, {
+  "id": 482,
+  "word": "You bet. 당연하지.; 물론이지.",
+  "en": "You bet.",
+  "ko": "당연하지.; 물론이지."
+}, {
+  "id": 483,
+  "word": "You bet? 내기 할래?; 자신할 수 있어?",
+  "en": "You bet?",
+  "ko": "내기 할래?; 자신할 수 있어?"
+}, {
+  "id": 484,
+  "word": "You cannot fool me. 나를 속일 수 있다고 생각하지 마.",
+  "en": "You cannot fool me.",
+  "ko": "나를 속일 수 있다고 생각하지 마."
+}, {
+  "id": 485,
+  "word": "You can say that again. 지당한 말씀이죠.",
+  "en": "You can say that again.",
+  "ko": "지당한 말씀이죠."
+}, {
+  "id": 486,
+  "word": "You first. 먼저 하세요.",
+  "en": "You first.",
+  "ko": "먼저 하세요."
+}, {
+  "id": 487,
+  "word": "You flatter me. (고맙다는 뜻으로) 나를 우쭐하게 만들어 주시네요.",
+  "en": "You flatter me.",
+  "ko": "(고맙다는 뜻으로) 나를 우쭐하게 만들어 주시네요."
+}, {
+  "id": 488,
+  "word": "You have the wrong number. 그 번호 아닙니다.; 전화 잘못 거셨습니다.",
+  "en": "You have the wrong number.",
+  "ko": "그 번호 아닙니다.; 전화 잘못 거셨습니다."
+}, {
+  "id": 489,
+  "word": "You got it. 이해를 하셨군요.",
+  "en": "You got it.",
+  "ko": "이해를 하셨군요."
+}, {
+  "id": 490,
+  "word": "You have lost me. 무슨 말씀을 하시는지 잘 모르겠어요.",
+  "en": "You have lost me.",
+  "ko": "무슨 말씀을 하시는지 잘 모르겠어요."
+}, {
+  "id": 491,
+  "word": "You look good. 좋아 보이네요.",
+  "en": "You look good.",
+  "ko": "좋아 보이네요."
+}, {
+  "id": 492,
+  "word": "You must be crazy. 너는 미친 게 틀림없어.",
+  "en": "You must be crazy.",
+  "ko": "너는 미친 게 틀림없어."
+}, {
+  "id": 493,
+  "word": "You name it. 말씀만 하세요.",
+  "en": "You name it.",
+  "ko": "말씀만 하세요."
+}, {
+  "id": 494,
+  "word": "You said it. 지당하신 말씀.",
+  "en": "You said it.",
+  "ko": "지당하신 말씀."
+}, {
+  "id": 495,
+  "word": "You should get in shape. 몸매를 신경쓰는 게 좋겠어요. 살을 더 빼는 게 좋겠네요.",
+  "en": "You should get in shape.",
+  "ko": "몸매를 신경쓰는 게 좋겠어요. 살을 더 빼는 게 좋겠네요."
+}, {
+  "id": 496,
+  "word": "You stay out of it. 넌 끼어 들지 마.",
+  "en": "You stay out of it.",
+  "ko": "넌 끼어 들지 마."
+}, {
+  "id": 497,
+  "word": "You went too far this time. 이번에는 좀 지나치셨어요.",
+  "en": "You went too far this time.",
+  "ko": "이번에는 좀 지나치셨어요."
+}, {
+  "id": 498,
+  "word": "You win. 네가 이겼다.",
+  "en": "You win.",
+  "ko": "네가 이겼다."
+}, {
+  "id": 499,
+  "word": "You're wasting your time. 너는 시간만 낭비하고 있어요.",
+  "en": "You're wasting your time.",
+  "ko": "너는 시간만 낭비하고 있어요."
+}, {
+  "id": 500,
+  "word": "You're welcome. (고맙다는 말에) 괜찮아요.; 무슨 말씀을요.",
+  "en": "You're welcome.",
+  "ko": "(고맙다는 말에) 괜찮아요.; 무슨 말씀을요."
+}]
